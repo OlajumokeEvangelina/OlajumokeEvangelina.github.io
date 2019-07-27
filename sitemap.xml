@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/courses/course1/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/biomarker/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/cran/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/cran-mirror/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/cancer/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/elastic-net/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/git/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/inference/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/lasso/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/metabolicsurv/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/project/internal-project/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/metabolites/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/partial-least-square/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/permutation/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/prediction/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/principle-component-anallysis/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/project/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/r/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/r-for-dummies/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/r-markdown/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/r-package/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/r-studio/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/resampling/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/risk-scores/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/software/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/survival/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/dplyr/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/git-bash/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/git-config/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/github/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/open-source/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/version-control/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/categories/</loc>
+    <lastmod>2019-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2019-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/post/</loc>
+    <lastmod>2019-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/categories/r/</loc>
+    <lastmod>2019-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/plot/</loc>
+    <lastmod>2019-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/regression/</loc>
+    <lastmod>2019-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/bayesian/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/talkup/bioinformaticjansseen/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/iscb40/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/inclusion-probability/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/mcmc/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/model-selection/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/surrogacy/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/talkup/</loc>
+    <lastmod>2019-07-17T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/talk/bioinformaticjansseen/</loc>
+    <lastmod>2019-07-17T13:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/talk/</loc>
+    <lastmod>2019-07-17T13:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/oncology/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/predicitng-survival/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/r-conference/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/talkpast/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/rstudio/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/talk/user2019/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/talkpast/user2019/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/user2019/</loc>
+    <lastmod>2019-07-11T18:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/demo/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/project/external-project/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/olajumoke-evangelina-owokotomo/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/admin/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/publication_types/2/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/e.-louis/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/glutamate/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/k.-vahove/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/l.-mesotten/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/lung-cancer/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/lung-inflammation/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/m.-thomeer/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/metabolic-phenotype/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/p.-adriaensens/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/p.-giesen/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/publication_types/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/publication/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/roc/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/tags/source-themes/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/publication/journal-article/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/authors/z.-shkedy/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://OlajumokeEvangelina.github.io/courses/</loc>
+  </url>
+  
+</urlset>

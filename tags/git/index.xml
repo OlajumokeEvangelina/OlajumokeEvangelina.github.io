@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Olajumoke Evangelina Owokotomo</title>
+    <link>https://OlajumokeEvangelina.github.io/tags/git/</link>
+    <description>Recent content in Git on Olajumoke Evangelina Owokotomo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://OlajumokeEvangelina.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software needed to get started</title>
+      <link>https://OlajumokeEvangelina.github.io/courses/course1/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://OlajumokeEvangelina.github.io/courses/course1/</guid>
+      <description>
+
+&lt;h2 id=&#34;r-software&#34;&gt;&lt;strong&gt;R Software&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;R&lt;/code&gt; is a statistical software that can be used to provide meaniful informaion (computing and graphics) about dataset in any format.&lt;/li&gt;
+&lt;li&gt;It is &lt;code&gt;freely available online&lt;/code&gt;  and it can run on any platform (dont be worried if you use a mac or unix platform).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;R&lt;/code&gt; is always available in different version, &lt;code&gt;always use the latest version&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;R&lt;/code&gt; can be downloaded from the &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;Comprehensive R Archive Network&lt;/a&gt;.
+
+&lt;ul&gt;
+&lt;li&gt;Click the &lt;code&gt;download R&lt;/code&gt; on the second line and choose a &lt;code&gt;CRAN mirror&lt;/code&gt; to download.&lt;/li&gt;
+&lt;li&gt;It is recommended to choose the CRAN mirror close to your &lt;code&gt;country&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Some functionality in R are organized in &lt;code&gt;packages which contain several functions&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;mean()&lt;/code&gt; is a function in R that calulate &lt;code&gt;the mean of several observations&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;n()&lt;/code&gt; is a function in the &lt;code&gt;dplyr package&lt;/code&gt; that gives the number of observations in a group and the format of represenation in R is &lt;code&gt;dplyr::n()&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;r-studio&#34;&gt;&lt;strong&gt;R Studio&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;R studio&lt;/code&gt; is is an open source software for R.&lt;/li&gt;
+&lt;li&gt;It is always recommended to use R studio in other to fully understand and use all its functionality using the R syntax.&lt;/li&gt;
+&lt;li&gt;R studio can be used for &lt;code&gt;various purposes&lt;/code&gt; as we will see over time.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;R studio&lt;/code&gt; provide a &lt;code&gt;good platform for the use of of R software  through it user interface&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;The latest version of &lt;code&gt;R studio&lt;/code&gt; for different platform can be downloaded  &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;Here&lt;/code&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;r-markdown&#34;&gt;&lt;strong&gt;R Markdown&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;R markdown&lt;/code&gt; is one tte cool features of &lt;code&gt;R studio&lt;/code&gt; that enables your &lt;code&gt;project to be reproduceable&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;R markdown&lt;/code&gt; can be used to &lt;code&gt;generate your report in any format&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;A single R markdown file &lt;code&gt;nicely combines your code for analysis and the some texts to generate your report&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;R markdown is &lt;code&gt;free and open source&lt;/code&gt; and it is apackage in R.&lt;/li&gt;
+&lt;li&gt;When you open an R session, R markdown can be installed using &lt;code&gt;install.packages(&amp;quot;rmarkdown&amp;quot;)&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;git-github&#34;&gt;&lt;strong&gt;Git/Github&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Git&lt;/code&gt; is an &lt;code&gt;open-source version control system&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Version control systems &lt;code&gt;manage the revisions made on your project or documents in a central repository&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Git&lt;/code&gt; is the mostly used version control because it stores project or file changes efficiently.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Git&lt;/code&gt; is a command line tool central around the github.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Github&lt;/code&gt; is a place to store your projects and track the changes made to the project.&lt;/li&gt;
+&lt;li&gt;Each project files are stored in a &lt;code&gt;repository&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Register for an account on &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Download &lt;code&gt;Git&lt;/code&gt; &lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Open &lt;code&gt;Git bash&lt;/code&gt; on your PC and run the following commands.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;git config --global user.name &amp;quot;your_GitHub_Username_here&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git config --global user.mail &amp;quot;your_email_here&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

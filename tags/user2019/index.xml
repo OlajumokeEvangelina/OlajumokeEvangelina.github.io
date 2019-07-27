@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>useR2019 on Olajumoke Evangelina Owokotomo</title>
+    <link>https://OlajumokeEvangelina.github.io/tags/user2019/</link>
+    <description>Recent content in useR2019 on Olajumoke Evangelina Owokotomo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2019 18:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://OlajumokeEvangelina.github.io/tags/user2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>useR Poster talk</title>
+      <link>https://OlajumokeEvangelina.github.io/talk/user2019/</link>
+      <pubDate>Thu, 11 Jul 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://OlajumokeEvangelina.github.io/talk/user2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>useR Poster talk</title>
+      <link>https://OlajumokeEvangelina.github.io/talkpast/user2019/</link>
+      <pubDate>Thu, 11 Jul 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://OlajumokeEvangelina.github.io/talkpast/user2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

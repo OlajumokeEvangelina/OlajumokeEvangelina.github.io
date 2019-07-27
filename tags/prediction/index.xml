@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prediction on Olajumoke Evangelina Owokotomo</title>
+    <link>https://OlajumokeEvangelina.github.io/tags/prediction/</link>
+    <description>Recent content in Prediction on Olajumoke Evangelina Owokotomo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://OlajumokeEvangelina.github.io/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MetabolicSurv R Package</title>
+      <link>https://OlajumokeEvangelina.github.io/project/internal-project/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://OlajumokeEvangelina.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;The R package &lt;a href=&#34;https://cran.r-project.org/web/packages/MetabolicSurv/index.html&#34; target=&#34;_blank&#34;&gt;MetabolicSurv&lt;/a&gt;  identifies metabolic biomarker signature for cancer patients (metabolic risk score) for metabolic data by discovering predictive metabolite for predicting survival and classifying patients into low and high risk group for mortality.  Metabolic risk scores (classifiers)  are constructed as a linear combination of predictive/important metabolites, prognostic factors and treatment effects if necessary.&lt;/p&gt;
+
+&lt;p&gt;Several methods were  implemented to estimate the metabolic risk score such as majority voting technique, LASSO, Elastic net, Supervised  Principle component analysis and Supervised Partial least squares analysis.  All estimation methods were evaluated  within a $\ell$-fold cross-validation loop. During the evaluation process, validation is accessed using the hazard ratios (HR) distribution of the test set. Resampling based inference is implemented  using permutations technique.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/MetabolicSurv/index.html&#34; target=&#34;_blank&#34;&gt;Download the MetabolicSurv here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
