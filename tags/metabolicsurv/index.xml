@@ -13,10 +13,10 @@
     
     <item>
       <title>MetabolicSurv R Package</title>
-      <link>https://OlajumokeEvangelina.github.io/project/internal-project/</link>
+      <link>https://OlajumokeEvangelina.github.io/project/metabolicsurv/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://OlajumokeEvangelina.github.io/project/internal-project/</guid>
+      <guid>https://OlajumokeEvangelina.github.io/project/metabolicsurv/</guid>
       <description>&lt;p&gt;The R package &lt;a href=&#34;https://cran.r-project.org/web/packages/MetabolicSurv/index.html&#34; target=&#34;_blank&#34;&gt;MetabolicSurv&lt;/a&gt;  identifies metabolic biomarker signature for cancer patients (metabolic risk score) for metabolic data by discovering predictive metabolite for predicting survival and classifying patients into low and high risk group for mortality.  Metabolic risk scores (classifiers)  are constructed as a linear combination of predictive/important metabolites, prognostic factors and treatment effects if necessary.&lt;/p&gt;
 
 &lt;p&gt;Several methods were  implemented to estimate the metabolic risk score such as majority voting technique, LASSO, Elastic net, Supervised  Principle component analysis and Supervised Partial least squares analysis.  All estimation methods were evaluated  within a $\ell$-fold cross-validation loop. During the evaluation process, validation is accessed using the hazard ratios (HR) distribution of the test set. Resampling based inference is implemented  using permutations technique.&lt;/p&gt;
